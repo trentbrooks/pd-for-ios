@@ -1,4 +1,6 @@
 
+Edit - this fork of libpd is up to date with libpd master as of 3rd April 2015. Includes the recent fixes for 64 bit/arm64 compatibilty for ios.
+
 After cloning the pd-for-ios repository, please make sure to cd into the
 pd-for-ios folder and say
   git submodule init
