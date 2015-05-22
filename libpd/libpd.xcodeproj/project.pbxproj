@@ -2254,7 +2254,7 @@
 				A76857511ACE52D10008F884 /* pd_imp.h */,
 			);
 			name = unstable;
-			path = "../../../../../../../Downloads/libpd/pure-data/extra/Cyclone/Mixed/shared/common/unstable";
+			path = ../unstable;
 			sourceTree = "<group>";
 		};
 		A7BB0F311ACE3E0A00366018 /* OSC-0.1 */ = {

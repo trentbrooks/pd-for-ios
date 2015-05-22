@@ -10,10 +10,10 @@
 #if defined(__linux__) || defined(__FreeBSD_kernel__) || defined(__GNU__) || defined(__GLIBC__)
 #include <dlfcn.h>
 #endif
-#ifdef UNIX
+//#ifdef UNIX
 #include <stdlib.h>
 #include <unistd.h>
-#endif
+//#endif
 #ifdef _WIN32
 #include <io.h>
 #include <windows.h>
